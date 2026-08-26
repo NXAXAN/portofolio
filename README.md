@@ -1,8 +1,17 @@
-# Nabil Portfolio
+# Nabil Portfolio — About Page
+
+This package is the first page of the multi-page portfolio.
+
+Files:
+- index.html — About page
+- style.css — shared styling
+
+Navigation is already prepared for:
+- resume.html
+- portfolio.html
+- contact.html
 
 Upload `index.html` and `style.css` to the root of your GitHub repository.
+Enable GitHub Pages from Settings → Pages → Deploy from a branch → main → /(root).
 
-## GitHub Pages
-Repository → Settings → Pages → Deploy from a branch → `main` → `/(root)` → Save.
-
-The header and profile photo are placeholders and can be replaced later.
+The header and profile image are placeholders for now.
