@@ -1,10 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Space+Grotesk:wght@400;500;600;700&display=swap');
 
 :root{
   --bg:#e9e8e6;--surface:#f3f2f0;--text:#24272b;--muted:#666b70;
   --accent:#29476e;--dark:#111214;--line:#777a7d;--border:#55585c;
   --shadow:6px 6px 0 var(--dark);--sidebar:250px;--max:1500px;
   --display:"Arial Narrow","Roboto Condensed",Impact,sans-serif;
-  --body:Arial,Helvetica,sans-serif;
+  --font-body: 'DM Sans', sans-serif;
+  --font-display: 'Space Grotesk', sans-serif;
 }
 *{box-sizing:border-box}html{scroll-behavior:smooth}
 body{margin:0;min-width:320px;background:var(--bg);color:var(--text);font-family:var(--body);line-height:1.45}
